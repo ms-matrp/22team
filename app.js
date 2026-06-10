@@ -33,7 +33,7 @@ const PRODUCTS = [
 },
   {
     name: 'Кофта "КУЛЬТУРА МОЛОДЁЖИ 3" ',
-    price: 3650,
+    price: 4000,
     description: DESCRIPTION,
     sizes: ["S", "M", "L", "XL"],
     gallery: ["ser1.jpeg", "ser2.jpeg", "ser3.jpeg"],
